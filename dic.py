@@ -12,3 +12,6 @@ print(car)
 #แก้ค่าในdic
 car["color"] = "red"
 print(car)
+#การupdate dic
+car.update({"light": "blue"})
+print(car)
