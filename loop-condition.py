@@ -13,3 +13,18 @@ i = 1
 while i < 6:
     print(i)
     i += 1
+a = False
+if a:
+    print("a is true")
+a = 33
+b = 1
+if b > a:
+    print("b is greater than a")
+else:
+    print("a is greater than b")
+a = False
+if a:
+    print("a is true")
+else:
+    print("a is flase")
+
