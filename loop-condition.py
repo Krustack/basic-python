@@ -8,3 +8,8 @@ for e in List1:
 Dic = {'name':'Tuu','Job':'soldier','age':'25'}
 for key,value in Dic.items():
     print(key,value)
+i = 1
+# while is infinities loop
+while i < 6:
+    print(i)
+    i += 1
