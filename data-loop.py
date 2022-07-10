@@ -6,3 +6,5 @@ student=[
 {"name": "Tuu","score":49},
 {"name": "Pom","score":51},
 ]
+for i in student:
+  print(i)
